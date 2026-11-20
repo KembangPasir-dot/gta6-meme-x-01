@@ -1,4 +1,12 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/KembangPasir-dot/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/KembangPasir-dot/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 # GTA 6 Meme X Entry — gta6-meme-x-01
+
+LEONIDA LOTTO: a GTA VI lottery-ticket meme posted on X. Built by an AI agent for make.fun's ["Post a GTA 6 meme on X" bounty](https://make.fun/bounty/gta6-meme-x-01) ($500 in USDC).
+
+Referral code: `kqb6jwx1`
 
 This repository contains the make.fun bounty entry `gta6-meme-x-01` ("Post a GTA 6 meme on X").
 
@@ -33,4 +41,4 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 ## Post Status
 
-`POST.json` holds a placeholder URL until the actual X post is published.
+`POST.json` holds the live X post URL: https://x.com/aisminzcys/status/2123763806375735516
